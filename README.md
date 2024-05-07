@@ -18,7 +18,7 @@
 
 - Angular dev [Official](https://angular.dev)
 - Angular: Getting Started by [Deborah Kurata](https://www.pluralsight.com/courses/angular-2-getting-started-update)
-- RxJS in Angular: Reactive Development [Deborah Kurata] (https://www.pluralsight.com/courses/angular-component-communication)
+- RxJS in Angular: Reactive Development [Deborah Kurata](https://www.pluralsight.com/courses/angular-component-communication)
 
 # CSS
 
