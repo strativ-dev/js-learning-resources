@@ -18,7 +18,7 @@
 - [Net Ninja](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1)
 - [Learn with sumit](https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
-- [TanStack-Query](https://tanstack.com/query/v3)
+- [TanStack-Query](https://tanstack.com/query/latest)
 - [Caching-in-Next.js](https://nextjs.org/docs/app/building-your-application/caching)
 
 # Angular
