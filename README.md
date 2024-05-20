@@ -9,11 +9,17 @@
 - You don&rsquo;t know JS by Kyle Simpson
 - Eloquent JavaScript by Marijn Haverbeke
 
-# React
+# Typescript
+
+- Instantly parse JSON into type [QuickType](https://app.quicktype.io/)
+
+# React/NextJS
 
 - [Net Ninja](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1)
 - [Learn with sumit](https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
+- [TanStack-Query](https://tanstack.com/query/v3)
+- [Caching-in-Next.js](https://nextjs.org/docs/app/building-your-application/caching)
 
 # Angular
 
@@ -23,5 +29,12 @@
 
 # CSS
 
-- Creating layouts with CSS Grid by [ Matt Henry](https://www.pluralsight.com/courses/css-grid-creating-layouts)
-- A complete guide to flexbox[ CSS-TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- MDN Doc for CSS - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Creating layouts with CSS Grid by [Matt Henry](https://www.pluralsight.com/courses/css-grid-creating-layouts)
+- A complete guide to flexbox [CSS-TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- A tool to create clipping path css easily [Clipping-Path-Maker](https://bennettfeely.com/clippy/)
+- Game's for learning CSS better [CSS-Game](https://flexboxfroggy.com/)
+
+# Other Hacks
+
+- [Git Aliases](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index)
