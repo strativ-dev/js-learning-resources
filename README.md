@@ -38,6 +38,7 @@
 - A complete guide to flexbox [CSS-TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - A tool to create clipping path css easily [Clipping-Path-Maker](https://bennettfeely.com/clippy/)
 - Game's for learning CSS better [CSS-Game](https://flexboxfroggy.com/)
+- CSS for JS developer [ CSS-for-JS](https://css-for-js.dev/)
 
 # Other Hacks
 
