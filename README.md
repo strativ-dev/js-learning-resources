@@ -1,5 +1,9 @@
 # JavaScript related learning resources
 
+# Networking
+
+- [How web works](https://github.com/vasanthk/how-web-works)  
+
 # JavaScript
 
 - [Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
